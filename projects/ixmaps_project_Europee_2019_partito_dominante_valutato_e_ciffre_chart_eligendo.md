@@ -1,8 +1,7 @@
-Esempio per un'aggregazione dati per un griglia rettangolare e visualizzazione in forma di 
-multipli grafici di tipo curva.<br>
-Source: [Comune di Palermo, Open Data](https://www.comune.palermo.it/opendata_dld.php?id=523)
+Visualizzazioni cartografiche sulla base dei dati pubblicato dal Ministero dell'Interno sul sito 'Eligendo' nella parte 'Reportistica'.<br>
+Source: [Eligendo - Ministero dell'Interno](https://elezioni.interno.gov.it/report)
 
-Questo esempio dimostra alcuni elementi di iXMaps:
+Partito vincente e percentuale dei voti
 ---
 
 - ### preparazione dei dati per la visualizzazione attraverso una procedura esterna.
@@ -20,7 +19,7 @@ Questo esempio dimostra alcuni elementi di iXMaps:
   la procedura crea una nuova colonna 'GiornoDellaSettimana' basato sulla colonna 'DATA'. Crea un oggetto JavaScript Date() per ogni  valore delle colonna 'DATA' per poi chiedere il giorno della settimana.
   
   la funzione deve essere definito come metodo `.process` del oggetto dati definito nel tema con la proprietà `"dbtable":"totale_incidenti_georef"` .
-    
+  
   la sorgente JavaScript che contiene la descritta procedura deve essere comunicato attravarso la proprietà `"dbtableExt":"http://..."` del tema  
 
 - ### aggregazione per una griglia dinamica definito in pixel dello schermo
@@ -50,4 +49,3 @@ Questo esempio dimostra alcuni elementi di iXMaps:
   I grafici avranno un contenitore con griglia `BOX|GRIGLIA` e la grandezza della griglia di aggregazione `GRIDSIZE`.
   
   Altri elementi della definizione sono `values` `label` e `xaxis`. Di questi `values` è molto importante perche definisce la sequenza dei giorni da 'lunedì' a 'domenica' che altrimenti sarebbe rimasto al caso o meglio alla sequenza di trovarli casualmente durante l'aggregazione. Invece di avere una sequenza utile per le curve, una sequenza casuale non ceerebbe una grafica interpretabile. 
- 
