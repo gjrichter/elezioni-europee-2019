@@ -1,6 +1,8 @@
 Visualizzazioni cartografiche sulla base dei dati pubblicato dal Ministero dell'Interno sul sito 'Eligendo' nella parte 'Reportistica'.<br>
  Fonte: <a href="https://elezioni.interno.gov.it/report" target="_blank">Eligendo - Ministero dell'Interno</a>
 
+#### Elezioni Europee 2019
+
 Partito vincente e percentuale dei voti
 ---
 
@@ -8,6 +10,6 @@ Questa mappa visualizza il partito vincente nelle Elezioni Europee del 2019 enfa
 
 Lo stesso risultato viene rappresentato anche in cifra.
 
-C'è una seconda visualizzazione del risultato in forma di una grafica per comune, che viene visualizzato altre un determinato zoom della mappa.  
+C'è una seconda visualizzazione del risultato in forma di una grafica per comune, che viene visualizzato oltre un determinato zoom della mappa.  
 
 
