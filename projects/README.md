@@ -7,5 +7,7 @@ Qui le varie mappe:
 
 [il partito vincente](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.json?id=123'))
 
+[<img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.png>](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.json?id=123'))
+
 ![](https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.png)
 
