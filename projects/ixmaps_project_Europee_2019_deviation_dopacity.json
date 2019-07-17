@@ -2,7 +2,7 @@
 	"metadata": {
 		"title": "Risultati sopra alla media",
 		"snippet": "Il partito che ha il megliore risultato rispetto alla propria media nazionale.<br>Si misura quanto supera la propria media in unità di deviazione standard",
-		"thumbnail": "",
+		"thumbnail": "https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.png",
 		"about": "",
 		"description": "",
 		"created": "Wed Jun 05 2019 10:00:36 GMT+0200 (Ora legale dell’Europa centrale)"
