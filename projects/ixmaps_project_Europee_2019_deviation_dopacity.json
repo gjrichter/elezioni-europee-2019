@@ -8,9 +8,9 @@
 		"created": "Wed Jun 05 2019 10:00:36 GMT+0200 (Ora legale dell’Europa centrale)"
 		},
 	"map": {
-		"map": "../../maps/svg/maps/ISTAT 2019 Comuni/italia_comuni_2019_g_nome_upper_noacc.svgz",
+		"map": "https://s3.eu-central-1.amazonaws.com/maps.ixmaps.com/Istat/comuni_2019/italia_comuni_2019_g_nome_upper_eligendo.svgz",
 		"basemap": "CartoDB - Positron",
-		"legend": "../../../../data/ElezioniEuropee2019/about.html",
+		"legend": "https://raw.githubusercontent.com/gjrichter/data/master/ElezioniEuropee2019/about.html",
 		"scaleParam": {
 			"normalSizeScale": "1528452"
 			},
@@ -84,7 +84,7 @@
 				"fillopacity": "auto",
 				"shadow": "false",
 				"dbtable": "themeDataObj",
-				"dbtableUrl": "../../data/ElezioniEuropee2019/Scrutini_comuni_partiti.csv",
+				"dbtableUrl": "https://raw.githubusercontent.com/gjrichter/data/master/ElezioniEuropee2019/Scrutini_comuni_partiti_eligendo.csv",
 				"dbtableType": "csv",
 				"datacache": "true",
 				"itemfield": "COMUNE",
