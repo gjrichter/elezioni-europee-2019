@@ -3,9 +3,9 @@ Visualizzazioni cartografiche sulla base dei dati pubblicato dal Ministero dell'
 
 #### Elezioni Europee 2019
 
-Partito con un risultato eccezionale 
+Partito con risultato eccezionale e confini del Regno d'Italia al 1861
 ---
 
-Questa mappa visualizza il partito che in questo comune ha il risultato più alto rispetto alla su media nazionale. Per misurare questo risultato insolito viene utilizzato la deviazione standard del partito.
+Questa mappa visualizza il partito che ha il risultato più alto rispetto alla su media nazionale. 
 
-L'intensità del colore indica la densità della popolazione del comune e da più o meno un'indicazione per l'importanza del risultato sopra alla media.
+Inoltre mostra i confini del Regno d'Italia al 1861 che ancora oggi sembrano confinare delle preferenze elettorali.
