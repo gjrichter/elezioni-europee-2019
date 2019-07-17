@@ -1,7 +1,7 @@
 {
 	"metadata": {
-		"title": "Risultati sopra alla media - solo piccoli partiti",
-		"snippet": "Viene indicato il partito che ha il megliore risultato rispetto alla propria media nazionale.<br>Si misura quanto supera la propria media in unità di deviazione standard",
+		"title": "Risultati sopra alla media - piccoli partiti",
+		"snippet": "Il partito che ha il megliore risultato rispetto alla propria media nazionale. I grandi partiti sono di colore grigio",
 		"thumbnail": "",
 		"about": "",
 		"description": "",
