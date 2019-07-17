@@ -10,13 +10,18 @@ Qui le varie mappe:
 <a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.json?id=123')" >
 <img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.png"></a>
 
-[il risultato particolare](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.json?id=123'))
+[il risultato sopra alla media](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.json?id=123'))
 
 <a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.json?id=123')" >
 <img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.png"></a>
 
 <a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity_gray.json?id=123')" >
 <img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity_gray.png"></a>
+
+[il risultato sopra alla media nei confini del 1861](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_1861.json?id=123'))
+
+<a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_1861.json?id=123')" >
+<img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_1861.png"></a>
 
 
 
