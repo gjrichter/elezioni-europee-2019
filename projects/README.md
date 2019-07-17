@@ -15,4 +15,8 @@ Qui le varie mappe:
 <a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.json?id=123')" >
 <img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.png"></a>
 
+<a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity_gray.json?id=123')" >
+<img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity_gray.png"></a>
+
+
 
