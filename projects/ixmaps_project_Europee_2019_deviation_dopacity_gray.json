@@ -118,6 +118,63 @@
 				"snippet": "Viene indicato il partito che ha il megliore risultato rispetto alla propria media nazionale.<br>Si misura quanto supera la propria media in unità di deviazione standard",
 				"description": "fonte dati: <a href='https://elezioni.interno.gov.it/report' target='_blank'>Eligendo - Ministero dell'Interno</a>"
 				}
+			},{
+			"layer": "Com2019_name_upper",
+			"field": "PARTITO DEMOCRATICO|LEGA SALVINI PREMIER|MOVIMENTO 5 STELLE|FORZA ITALIA|FRATELLI D'ITALIA|+EUROPA - ITALIA IN COMUNE - PDE ITALIA|EUROPA VERDE|LA SINISTRA|PARTITO COMUNISTA|CASAPOUND ITALIA - DESTRE UNITE|FORZA NUOVA|SVP",
+			"field100": "Total",
+			"style": {
+				"type": "CHART|SYMBOL|TEXTONLY|DOMINANT|DEVIATION|AGGREGATE|MAX|RELOCATE|SUM|NOLEGEND|SIZEP1",
+				"colorscheme": [
+					"#ABABAB",
+					"#ABABAB",
+					"#ABABAB",
+					"#ABABAB",
+					"#268CCC",
+					"#FF4400",
+					"#88FF22",
+					"#FF0000",
+					"#FF0000",
+					"#884400",
+					"#884400",
+					"#444444"],
+				"fillopacity": "1",
+				"shadow": "false",
+				"dbtable": "themeDataObj",
+				"dbtableUrl": "https://raw.githubusercontent.com/gjrichter/data/master/ElezioniEuropee2019/Scrutini_comuni_partiti_eligendo.csv",
+				"dbtableType": "csv",
+				"datacache": "true",
+				"itemfield": "COMUNE",
+				"lookupfield": "COMUNE",
+				"symbols": [
+					"label"],
+				"label": [
+					"PARTITO DEMOCRATICO",
+					"LEGA SALVINI PREMIER",
+					"MOVIMENTO 5 STELLE",
+					"FORZA ITALIA",
+					"FRATELLI D'ITALIA",
+					"+EUROPA - ITALIA IN COMUNE - PDE ITALIA",
+					"EUROPA VERDE",
+					"LA SINISTRA",
+					"PARTITO COMUNISTA",
+					"CASAPOUND ITALIA - DESTRE UNITE",
+					"FORZA NUOVA",
+					"SVP"],
+				"units": "%",
+				"units100": "",
+				"align": "below",
+				"scale": "2",
+				"dopacitypow": "0.5",
+				"dopacityscale": "2",
+				"valuescale": "1",
+				"valuedecimals": "0",
+				"gridwidthpx": "25",
+				"dominantfilter": "min",
+				"dominantdfilter": "0",
+				"title": "Elezioni Europee 2019",
+				"snippet": "Viene indicato il partito che ha il megliore risultato rispetto alla propria media nazionale.<br>Si misura quanto supera la propria media in unità di deviazione standard",
+				"description": "fonte dati: <a href='https://elezioni.interno.gov.it/report' target='_blank'>Eligendo - Ministero dell'Interno</a>"
+				}
 			}],
 	"layerMask": {
 		}
