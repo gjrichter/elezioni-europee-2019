@@ -21,7 +21,7 @@
 			"clipmapdynamic": "true",
 			"dynamiclabel": "NOSIZE",
 			"labelspace": "1.0",
-			"checklabeloverlap": "false",
+			"checklabeloverlap": "NOSQUEEZE",
 			"dynamiclayer": "true",
 			"dynamictiles": "true",
 			"discardtiles": "false",
@@ -123,7 +123,7 @@
 			"field": "PARTITO DEMOCRATICO|LEGA SALVINI PREMIER|MOVIMENTO 5 STELLE|FORZA ITALIA|FRATELLI D'ITALIA|+EUROPA - ITALIA IN COMUNE - PDE ITALIA|EUROPA VERDE|LA SINISTRA|PARTITO COMUNISTA|CASAPOUND ITALIA - DESTRE UNITE|FORZA NUOVA|SVP",
 			"field100": "Total",
 			"style": {
-				"type": "CHART|SYMBOL|TEXTONLY|DOMINANT|DEVIATION|AGGREGATE|MAX|RELOCATE|SUM|NOLEGEND|SIZEP3",
+				"type": "CHART|SYMBOL|TEXTONLY|DOMINANT|DEVIATION|AGGREGATE|MAX|RELOCATE|SUM|NOLEGEND|SIZEP1",
 				"colorscheme": [
 					"#ABABAB",
 					"#ABABAB",
