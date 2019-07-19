@@ -10,6 +10,12 @@ Qui le varie mappe:
 <a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.json?id=123')" >
 <img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_partito_dominante_valutato_e_ciffre_chart_eligendo.png"></a>
 
+Questa mappa contiene 3 temi per visualizzare il risultato delle elezioni europee del 2019. Il primo mostra il partito vincente con il suo colore, il secondo aggiunge il risultato del partito vincente in cifre.
+
+Un terzo tema dipende dal livello dello zoom è mostra il risultato di tutti partiti in un semicerchio.
+
+
+
 [il risultato sopra alla media](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.json?id=123'))
 
 <a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_deviation_dopacity.json?id=123')" >
