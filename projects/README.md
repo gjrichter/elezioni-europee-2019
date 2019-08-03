@@ -39,6 +39,14 @@ Un 'gioco' che mette al confronto preferenze locali come descritto sopra con i c
 
 La domanda è: sono ancora 'vivi' i confini di allora e come si esprimono nel risultato delle elezioni? 
 
+
+### [il risultato sopra alla media con grafici](javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019_composecolor_deviations.json?id=123'))
+
+<a href="javascript:ixmaps.loadExample('https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019__composecolor_deviations.json?id=123')" >
+<img src="https://raw.githubusercontent.com/gjrichter/elezioni-europee-2019/master/projects/ixmaps_project_Europee_2019__composecolor_deviations.png"></a>
+
+Un fondo creato con un colore composto dai risultati dei partiti, ogni partito contribuisce con il suo percentuale, e delle barre puntate per indicare risultati eccezionale degli singoli partiti.
+
 <br><br><br><br><br><br>
 
 
