@@ -70,7 +70,7 @@
 				"autoopacity": "true",
 				"shadow": "false",
 				"dbtable": "themeDataObj",
-				"dbtableUrl": "../../data/ElezioniEuropee2019/Scrutini_comuni_partiti.csv",
+				"dbtableUrl": "https://s3-eu-west-1.amazonaws.com/data.ixmaps.com/ElezioniEuropee2019/Scrutini_comuni_partiti.csv.gz",
 				"dbtableType": "csv",
 				"datacache": "true",
 				"lookupfield": "COMUNE",
